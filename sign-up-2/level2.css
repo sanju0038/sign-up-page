@@ -1,0 +1,63 @@
+body{
+    background-image: url("sai.png");
+    background-image: cover;
+    
+}
+.box
+{
+    height:400px;
+    width:350px;
+    border-radius: 25px;
+    background-color: #53a8b6;
+    position: relative;
+    left: 500px;
+    top:100px;
+    box-shadow: 5px 2px 5px #131313;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    top: 10px;
+    color: #204969;
+    padding:20px;
+}
+.box input{
+    background-color: #bbe4e9;
+    height: 30px;
+    width:200px;
+    border-radius: 5px;
+    border: 0;
+    
+}
+.box button{
+    background-color: transparent;
+    margin-left: 140px;
+    margin-top:30px;
+    height:40px;
+    width:100px;
+    border-radius: 5px;
+    border-style: groove;
+}
+p{
+    color:#204969;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-spacing: 5px;
+    padding:20px;
+    margin-bottom: 20px;
+}
+hr{
+    width: 150px;
+    height:2px;
+    border: 0;
+    background-color: #204969;
+    
+}
+label{
+    color:#204969;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+}
+button:active{
+    background-color:#204969;
+}
